@@ -106,7 +106,7 @@ Trouble is stepper motor are relative motors. Which means they have no idea wher
 
 The DRV8833 wiring is vey simple. It really is a great little part, usefull to have around, wether it is for steppers or DC motors.
 
-![](./image/schematics.svg)
+![](./image/schematics.png)
 
 
 Weio has a stepper library so the code is pretty straightforward. 
@@ -209,7 +209,10 @@ Last step is set-up the Weio to automatically start the program on power-up. Onc
 
 ##Conclusion
 
-Weio really is a great platform to prototype IOT stuff. It took us about 2 hours to get everything working, and three to paint it..  All in all it was a fun afternoon project! See the demo video here
+Weio really is a great platform to prototype IOT stuff. It took us about 2 hours to get everything working, and three to paint it..  All in all it was a fun afternoon project! See the demo video [here](https://www.youtube.com/watch?v=uPNw7kh0oZM&feature=youtu.be)
+
+
+Want to meet us? Have a beer? Go to [our Website](seed-up.io)
 
 
 
@@ -219,6 +222,8 @@ Weio really is a great platform to prototype IOT stuff. It took us about 2 hours
 ####Annex
 ---
 As i sayed before, Robin reversed-engineered the RATP API. Here are his findings:
+
+[For you robin]
 
 
   
