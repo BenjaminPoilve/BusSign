@@ -212,7 +212,7 @@ Last step is set-up the Weio to automatically start the program on power-up. Onc
 Weio really is a great platform to prototype IOT stuff. It took us about 2 hours to get everything working, and three to paint it..  All in all it was a fun afternoon project! See the demo video [here](https://www.youtube.com/watch?v=uPNw7kh0oZM&feature=youtu.be)
 
 
-Want to meet us? Have a beer? Go to [our Website](www.seed-up.io)
+Want to meet us? Have a beer? Go to [our Website](http://www.seed-up.io)
 
 
 
