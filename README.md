@@ -1,5 +1,9 @@
 #An IOT wall bus sign
 
+
+
+ ![](./image/horloge.png)
+
 We recently moved into our house with a few hacker friend. Great house, lots of space, but trouble is, we have to catch a bus to go to our school. The bus is there about every 20 minutes, so [missing it ](https://www.youtube.com/watch?v=_Tr8KRqyGJk) is major trouble. 
 
 Turned out we had one of Uros's Weio card laying around so we decided to make something out of this [truly great thing](http://we-io.net/hardware/)!
@@ -193,11 +197,15 @@ Turns out, we might be better at coding than painting than at [painting things](
 
 Everything is pretty straightForward, so I just show you the assembled thing:
 
+![](./image/montage.JPG)
 
 
 
 
 
+Last step is set-up the Weio to automatically start the program on power-up. Once again, Uros did its job well: just go to settings et tick *Run last project on boot*
+
+![](./image/onboot.png)
 
 ##Conclusion
 
