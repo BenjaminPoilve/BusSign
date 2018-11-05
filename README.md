@@ -1,4 +1,4 @@
-#An IOT wall bus sign
+# An IOT wall bus sign
 
 
 
@@ -8,7 +8,7 @@ We recently moved into our house with a few hacker friend. Great house, lots of 
 
 Turned out we had one of Uros's Weio card laying around so we decided to make something out of this [truly great thing](http://we-io.net/hardware/)!
 
-##Concept
+## Concept
 The basic idea is simple: display how much time is left till the next bus on the wall. What we need for that is simple:
 
  * An Internet connected Board with Io
@@ -96,7 +96,7 @@ Not a very clean way to do this, I admit! But at least, wether your local transp
 
 We choosed to use a stepper motor to move the arrow. This choice was mostly motivated by the fact that I had a stepper in my part box but no servo.. 
 
-####BOM
+#### BOM
  * 1 [WEIO](http://www.lextronic.fr/P35497-plate-forme-programmable-weio.html)
  * 1 [DRV8833](https://www.pololu.com/product/2130)
  * 1 [5V stepper](https://www.adafruit.com/products/858)
@@ -207,7 +207,7 @@ Last step is set-up the Weio to automatically start the program on power-up. Onc
 
 ![](./image/onboot.png)
 
-##Conclusion
+## Conclusion
 
 Weio really is a great platform to prototype IOT stuff. It took us about 2 hours to get everything working, and three to paint it..  All in all it was a fun afternoon project! See the demo video [here](https://www.youtube.com/watch?v=uPNw7kh0oZM&feature=youtu.be)
 
@@ -217,13 +217,6 @@ Want to meet us? Have a beer? Go to [our Website](http://www.seed-up.io)
 
 
 
-
-
-####Annex
----
-As i sayed before, Robin reversed-engineered the RATP API. Here are his findings:
-
-[For you robin]
 
 
   
