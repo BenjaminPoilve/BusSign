@@ -3,6 +3,8 @@
 
 
  ![](./image/horloge.png)
+ 
+ (click image for video)
 
 We recently moved into our house with a few hacker friend. Great house, lots of space, but trouble is, we have to catch a bus to go to our school. The bus is there about every 20 minutes, so [missing it ](https://www.youtube.com/watch?v=_Tr8KRqyGJk) is major trouble. 
 
